@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- from https://github.com/mik3y/usb-serial-for-android/blob/master/usbSerialExamples/src/main/res/xml/device_filter.xml-->
+
+<resources>
+    <!-- 0x0403 / 0x6001: FTDI FT232R UART -->
+    <usb-device vendor-id="1027" />
+</resources>
